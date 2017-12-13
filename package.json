@@ -1,0 +1,31 @@
+{
+  "name": "contra-ngx-img-cropper",
+  "version": "1.0.0",
+  "description": "contra image cropper utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdcontra/contra-ngx-img-cropper.git"
+  },
+  "author": "Contra Dev <jdhatton@contrasoftware.com> (http://www.contrasoftware.com/)",
+  "license": "ISC",
+  "peerDependencies": {
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/core": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jdcontra/contra-ngx-img-cropper/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/jdcontra/contra-ngx-img-cropper#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
